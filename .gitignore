@@ -1,39 +1,40 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+/alurapic/dist
+/alurapic/tmp
+/alurapic/out-tsc
+
 
 # dependencies
-/node_modules
+/alurapic/node_modules
 
 # IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+/alurapic/.idea
+/alurapic/.project
+/alurapic/.classpath
+/alurapic/.c9/
+/alurapic/*.launch
+/alurapic/.settings/
+/alurapic/*.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+/alurapic/.vscode/*
+/alurapic/!.vscode/settings.json
+/alurapic/!.vscode/tasks.json
+/alurapic/!.vscode/launch.json
+/alurapic/!.vscode/extensions.json
 
 # misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
+/alurapic/.sass-cache
+/alurapic/connect.lock
+/alurapic/coverage
+/alurapic/libpeerconnection.log
+/alurapic/npm-debug.log
+/alurapic/yarn-error.log
+/alurapic/testem.log
+/alurapic/typings
 
 # System Files
-.DS_Store
-Thumbs.db
+/alurapic/.DS_Store
+/alurapic/Thumbs.db
